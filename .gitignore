@@ -1,0 +1,6 @@
+/node_modules
+/public/dist
+/.vs
+/bin
+/obj
+/wwwroot/dist/*
